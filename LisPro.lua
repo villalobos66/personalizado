@@ -76,6 +76,7 @@ return {
     "Mailu_7500",
     "Lukkas_5555",
     "CXCHXRRX_27",
+    "lukas_54547",
     
     "Ikanaide08",
     "4_beibiiz",
